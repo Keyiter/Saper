@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1490276974 source:c:\users\keyiter\desktop\gejm\test 2\grafika.cpp
+	<allegro.h>
+	"grafika.hpp"
+
+1490270270 c:\users\keyiter\desktop\gejm\test 2\grafika.hpp
+
+1490276872 source:c:\users\keyiter\desktop\gejm\test 2\main.cpp
+	<allegro.h>
+	"grafika.hpp"
+	"obsluga.hpp"
+
+1490276889 c:\users\keyiter\desktop\gejm\test 2\obsluga.hpp
+
+1490276864 source:c:\users\keyiter\desktop\gejm\test 2\obsluga.cpp
+	<allegro.h>
+	"obsluga.hpp"
+	"grafika.hpp"
+
+1492703896 source:c:\users\keyiter\desktop\test 2\grafika.cpp
+	<allegro.h>
+	"grafika.hpp"
+
+1492693106 c:\users\keyiter\desktop\test 2\grafika.hpp
+
+1492704039 source:c:\users\keyiter\desktop\test 2\main.cpp
+	<allegro.h>
+	<time.h>
+	"grafika.hpp"
+	"obsluga.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<assert.h>
+
+1492704090 c:\users\keyiter\desktop\test 2\obsluga.hpp
+
+1492685395 source:c:\users\keyiter\desktop\test 2\obsluga.cpp
+	<allegro.h>
+	"obsluga.hpp"
+	"grafika.hpp"
+
+1492703898 source:c:\users\keyiter\documents\test 2\grafika.cpp
+	<allegro.h>
+	"grafika.hpp"
+
+1492693108 c:\users\keyiter\documents\test 2\grafika.hpp
+
+1492770800 source:c:\users\keyiter\documents\test 2\main.cpp
+	<allegro.h>
+	<time.h>
+	"grafika.hpp"
+	"obsluga.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<assert.h>
+
+1492704092 c:\users\keyiter\documents\test 2\obsluga.hpp
+
+1492704306 source:c:\users\keyiter\documents\test 2\obsluga.cpp
+	<allegro.h>
+	"obsluga.hpp"
+	"grafika.hpp"
+
